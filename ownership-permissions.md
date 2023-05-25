@@ -8,20 +8,20 @@ We have 3 types of ownership.
 
 3 types of Permissions
 
-**Read:** denotes by number 4
-**Write:** Denotes by number 2
-**Execute:** Denotes by number 1
+**Read:** denotes by number 4 <br/>
+**Write:** Denotes by number 2 <br/> 
+**Execute:** Denotes by number 1 <br/>
 ```
 -rw-rw-r-- 1 ec2-user ec2-user  1483 May 24 13:58 eks-client.sh
 ```
-Above line has total 10 characters. First character  shows it is file(-)
-Next 3 characters denotes permission of user.
-Next 3 characters denotes permission of group
-Next 3 characters denotes permission of other
+Above line has total 10 characters. First character  shows it is file(-) <br/>
+Next 3 characters denotes permission of user. <br/>
+Next 3 characters denotes permission of group <br/>
+Next 3 characters denotes permission of other <br/>
 
-So user has read and write access.
-Group has read and write access.
-others have only write access.
+So user has read and write access. <br/>
+Group has read and write access. <br/>
+others have only write access. <br/>
 
 If we want to add execute permission to everyone.
 
