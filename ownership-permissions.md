@@ -2,7 +2,7 @@
 
 We have 3 types of ownership.
 
-**User:** He is the one created the file/folder. Denotes by u
+**User:** He is the one created the file/folder. Denotes by u <br\>
 **Group:** a group of users the file belongs to. Denotes by g
 **Other:** Any one other than the user and group. Denotes by o
 
